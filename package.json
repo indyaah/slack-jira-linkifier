@@ -1,0 +1,17 @@
+{
+  "name": "slack-jira-bot",
+  "version": "0.0.1",
+  "main": "temp.js",
+  "private": true,
+  "scripts": {
+    "start": "node temp.js"
+  },
+  "author": "Shaun Burdick <github@shaunburdick.com>",
+  "license": "ISC",
+  "engine": {
+    "node": "^5.1.0"
+  },
+  "dependencies": {
+    "slack-client": "1.5.1"
+  }
+}
